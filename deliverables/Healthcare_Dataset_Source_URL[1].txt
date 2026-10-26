@@ -1,0 +1,7 @@
+Healthcare Midterm Project — Original Dataset Source
+
+Dataset Title: Healthcare Dataset
+Source: Kaggle
+Dataset URL: https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+
+This is the original dataset selected and approved for the healthcare exploratory data analysis and preprocessing midterm project.
